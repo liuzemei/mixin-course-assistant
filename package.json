@@ -1,0 +1,16 @@
+{
+  "name": "mixin-course-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Neo",
+  "license": "ISC",
+  "dependencies": {
+    "mixin-node-sdk": "^3.0.10",
+    "qrcode": "^1.4.4"
+  }
+}
