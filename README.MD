@@ -1,5 +1,7 @@
 
 # Mixin 小助理开发
+[github仓库请点击](https://github.com/liuzemei/mixin-course-assistant)
+[视频教程请点击](https://developers.mixinbots.com/courses/1e276ee9-18fb-42e3-915a-54b049679084/89329795-c5a2-4aa5-ab32-c52cf6649916)
 本仓库旨在为学习 mixin messenger 的开发。
 学习完，将会熟悉
 - 通过机器人与 mixin messenger 的用户进行消息通信
